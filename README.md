@@ -76,37 +76,9 @@
 
 ## 📊 Most Used Languages
 
-<div align="center" style="width:100%;max-width:700px;">
-
-  <!-- Progress Bar -->
-  <div style="display:flex;height:26px;border-radius:8px;overflow:hidden;border:1px solid #1f2530;">
-    <div style="background:#f1e05a;width:55%;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:600;color:#000;">
-      JavaScript 55%
-    </div>
-    <div style="background:#b07219;width:18%;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:600;color:#fff;">
-      Java 18%
-    </div>
-    <div style="background:#3572A5;width:15%;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:600;color:#fff;">
-      Python 15%
-    </div>
-    <div style="background:#f34b7d;width:12%;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:600;color:#fff;">
-      C++ 12%
-    </div>
-  </div>
-
-  <!-- Legend -->
-  <div style="margin-top:10px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px 20px;font-size:13px;line-height:1.3;text-align:left;">
-    <div><span style="color:#f1e05a;">●</span> <strong>JavaScript</strong> — 55%</div>
-    <div><span style="color:#b07219;">●</span> <strong>Java</strong> — 18%</div>
-    <div><span style="color:#3572A5;">●</span> <strong>Python</strong> — 15%</div>
-    <div><span style="color:#f34b7d;">●</span> <strong>C++</strong> — 12%</div>
-  </div>
-
-  <div style="margin-top:8px;font-size:11px;color:#64748b;">
-    Static language distribution (update manually)
-  </div>
-
-</div>
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyDev72&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58D68D&text_color=C9D1D9" />
+</p>
 
 ---
 
