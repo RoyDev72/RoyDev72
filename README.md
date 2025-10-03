@@ -73,6 +73,22 @@
   </div>
 </div>
 
+<div style="height:12px;border-radius:6px;overflow:hidden;display:flex;">
+  <span title="JavaScript 55%" style="background:#f1e05a;width:55%;display:block;"></span>
+  <span title="Java 18%" style="background:#b07219;width:18%;display:block;"></span>
+  <span title="Python 15%" style="background:#3572A5;width:15%;display:block;"></span>
+  <span title="C++ 12%" style="background:#f34b7d;width:12%;display:block;"></span>
+</div>
+
+<div style="margin-top:10px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px 14px;font-size:12px;line-height:1.2;">
+  <div style="white-space:nowrap;"><span style="color:#f1e05a;">●</span> <strong>JavaScript</strong> 55%</div>
+  <div style="white-space:nowrap;"><span style="color:#b07219;">●</span> <strong>Java</strong> 18%</div>
+  <div style="white-space:nowrap;"><span style="color:#3572A5;">●</span> <strong>Python</strong> 15%</div>
+  <div style="white-space:nowrap;"><span style="color:#f34b7d;">●</span> <strong>C++</strong> 12%</div>
+</div>
+
+<div style="margin-top:8px;font-size:10px;color:#64748b;">Static distribution (edit manually)</div>
+
 <div style="display:inline-block;vertical-align:top;margin:6px;padding:16px;width:740px;max-width:100%;background:#12161f;border:1px solid #1f2530;border-radius:10px;text-align:center;">
   <div style="font-weight:600;color:#e2e8f0;margin-bottom:10px;">Contribution Graph</div>
   <picture>
