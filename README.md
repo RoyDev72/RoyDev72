@@ -40,10 +40,10 @@
 <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36"/>
 <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36"/>
 <img alt="Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="36"/>
-<img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="36"/>
 <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
 <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36"/>
-<img alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="36"/>
 <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36"/>
 <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36"/>
 <img alt="Postman" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/postman.svg" height="36"/>
@@ -74,10 +74,16 @@
 
 ---
 
-## 📊 Most Used Languages
+### 📊 Most Used Languages (Progress Bars)
+
+Java         ██████████████████████░░░░░░░░░░░░░░░ 35%  
+JavaScript   █████████████████░░░░░░░░░░░░░░░░░░░░ 25%  
+Python       ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15%  
+TypeScript   ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15%  
+C++          ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
 
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyDev72&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58D68D&text_color=C9D1D9" />
+  🟩 <strong>Java</strong> • 🟨 <strong>JavaScript</strong> • 🟦 <strong>Python</strong> • 🟪 <strong>TypeScript</strong> • 🟥 <strong>C++</strong>
 </p>
 
 ---
