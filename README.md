@@ -70,20 +70,6 @@
   <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/RoyDev72?theme=dark&font=Source%20Code%20Pro&ext=contest&border=0&radius=10" height="180" />
 </div>
 
-### 📊 Quick Stats
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=RoyDev72&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=RoyDev72&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</p>
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyDev72&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<div style="display:inline-block;vertical-align:top;margin:6px;padding:16px;width:360px;max-width:100%;background:#12161f;border:1px solid #1f2530;border-radius:10px;text-align:left;">
-  <div style="font-weight:600;color:#e2e8f0;margin-bottom:12px;">Most Used Languages</div>
-  <div style="background:#0f172a;border:1px solid #2a3342;padding:6px 10px 10px 10px;border-radius:8px;">
-
-  
   </div>
 </div>
 
